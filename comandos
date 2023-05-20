@@ -1,0 +1,10 @@
+git init (inicia un repositorio en la compu)
+git remote add origin https://github.com/FabianGMG/argentinaprograma.git (empareja con la nube)
+(todo la primera vez)
+Se crea el archivo...
+git add nobmredelarchivo (agrega el archivo a subir)
+(se pueden hacer varios uno abajo del otro)
+git commit -m "mensje de referencia" (armo el paquete)
+git push origin main (enviar todo a la nube)
+
+git status (te avisa en qué estado esta)
