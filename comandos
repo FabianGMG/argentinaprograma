@@ -8,3 +8,5 @@ git commit -m "mensje de referencia" (armo el paquete)
 git push origin main (enviar todo a la nube)
 
 git status (te avisa en qué estado esta)
+
+modifico todo esto
